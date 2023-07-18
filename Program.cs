@@ -16,7 +16,7 @@ namespace TestProgram
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmDispaly());
+            Application.Run(new frmLargest());
         }
     }
 }
